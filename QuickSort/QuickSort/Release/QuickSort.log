@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\mansa\source\repos\quicksort\quicksort\source.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\mansa\source\repos\quicksort\quicksort\source.cpp(66): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mansa\source\repos\quicksort\quicksort\source.cpp(78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  27 of 82 functions (32.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  QuickSort.vcxproj -> C:\Users\mansa\source\repos\QuickSort\Release\QuickSort.exe

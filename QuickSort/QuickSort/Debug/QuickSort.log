@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mansa\source\repos\quicksort\quicksort\source.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\mansa\source\repos\quicksort\quicksort\source.cpp(66): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mansa\source\repos\quicksort\quicksort\source.cpp(78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  QuickSort.vcxproj -> C:\Users\mansa\source\repos\QuickSort\Debug\QuickSort.exe
